@@ -6,6 +6,11 @@ footer {
   background-color: #2d2e32;
   padding: 5rem 0;
   width: 100%;
+  .container {
+    max-width: 107rem;
+    margin: 0 auto;
+    padding: 0 4rem;
+  }
 
   h3 {
     font-size: $text-size;

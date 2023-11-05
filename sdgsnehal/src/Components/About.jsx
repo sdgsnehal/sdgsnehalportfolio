@@ -19,11 +19,11 @@ function AboutMe() {
             <div className="text-side">
               <h3>About me</h3>
               <h4>
-                A dedicated Front-end Developer <br /> based in Belgrade, Serbia
+                A dedicated Front-end Developer <br /> based in Nagpur, Maharashtra
                 📍
               </h4>
               <p>
-                As a Junior Front-End Developer, I possess an impressive arsenal
+                As a Front-End Developer, I possess an impressive arsenal
                 of skills in HTML, CSS, JavaScript, React, Tailwind, and SCSS. I
                 excel in designing and maintaining responsive websites that
                 offer a smooth user experience. My expertise lies in crafting

@@ -10,7 +10,9 @@
   background-color: $gray-bg-color;
   position: relative;
   .container {
-    width: 1100px;
+    max-width: 107rem;
+    margin: 0 auto;
+    padding: 0 4rem;
   }
 
   @media (max-width: 900px) {

@@ -5,8 +5,12 @@
 .contact {
   background-color: white;
   padding: 11rem 0;
-  
-  .contact__title{
+  .container {
+    max-width: 107rem;
+    margin: 0 auto;
+    padding: 0 4rem;
+  }
+  .contact__title {
     text-align: left;
   }
 
@@ -30,7 +34,6 @@
       font-weight: 700;
       font-size: $text-size;
       margin-bottom: 1rem;
-      
     }
 
     h3 {
@@ -57,9 +60,9 @@
     display: flex;
     align-items: center;
     gap: 1.5rem;
-    .icon{
-        width: 30px;
-        height: 30px;
+    .icon {
+      width: 30px;
+      height: 30px;
     }
 
     @media (max-width: 750px) {

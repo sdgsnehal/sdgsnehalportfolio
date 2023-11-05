@@ -6,6 +6,12 @@
   background-color: $background-color;
   padding: 15rem 0;
   
+  .container {
+    max-width: 107rem;
+    margin: 0 auto;
+    padding: 0 4rem;
+  }
+  
 
   @media (max-width: 1020px) {
     padding: 8rem 0;
