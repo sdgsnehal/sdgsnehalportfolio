@@ -40,7 +40,7 @@ const Hero = () => {
                     aria-label="linkedin"
                     rel="noreferrer"
                     target="_blank"
-                    href="https://www.linkedin.com/in/stefan-topalovic-dev/"
+                    href="https://www.linkedin.com/in/sdgsnehal/"
                   >
                     <AiFillLinkedin width={32} height={32} />
                   </a>

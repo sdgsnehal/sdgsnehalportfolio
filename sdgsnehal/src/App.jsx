@@ -1,14 +1,10 @@
 import "./App.css";
-import DrawerAppBar from "./Components/Navbar";
-import Hero from "./Components/Hero";
-import About from "./Components/About";
+import Home from "./Home";
 
 function App() {
   return (
     <>
-      <DrawerAppBar />
-      <Hero/>
-      <About/>
+      <Home />
     </>
   );
 }
