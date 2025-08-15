@@ -33,7 +33,7 @@ const Hero = () => {
                 <img src={waving} alt="waving_hand" />
                 <p>
                   Hi, I'm Snehal Gaurkhede. A passionate Front-end React
-                  Developer based in Nagpur,Maharashtra. 📍
+                  Developer based in pune,Maharashtra. 📍
                 </p>
                 <span>
                   <a

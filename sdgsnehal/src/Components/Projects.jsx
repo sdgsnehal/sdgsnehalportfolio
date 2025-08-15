@@ -1,7 +1,7 @@
 import Gymate from "../assets/gym.webp";
 import Raouf from "../assets/ecom.webp";
 
-import CarRental from "../assets/car.webp";
+import Task from "../assets/task.webp";
 import CoinDom from "../assets/coin.png";
 import Probox from "./Probox";
 import "./Projects.scss";
@@ -16,14 +16,14 @@ function Projects() {
             <h3>Each project is a unique piece of development 🧩</h3>
             <div className="projects-grid">
               <Probox
-                title="Car Rental"
-                img={CarRental}
-                date="(February 2023)"
-                description="A car rental website is an online platform that allows users to rent cars for personal or business use. The website provides an interface for searching, comparing, and reserving cars."
-                techno1="React"
-                techno2="SCSS"
-                code="https://github.com"
-                demo="https://car-rental-ten.vercel.app/"
+                title="Task App"
+                img={Task}
+                date="(February 2024)"
+                description="A task management app that helps users organize and prioritize their tasks efficiently."
+                techno1="Nextjs"
+                techno2="TAILWIND CSS"
+                code="https://github.com/sdgsnehal/taskfy"
+                demo="https://cbstask.vercel.app/"
                 scrollY="-83%"
                 icon="🚗"
               />
