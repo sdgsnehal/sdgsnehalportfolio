@@ -2,7 +2,7 @@ import Gymate from "../assets/gym.webp";
 import Raouf from "../assets/ecom.webp";
 
 import Task from "../assets/task.webp";
-import CoinDom from "../assets/coin.png";
+import price from "../assets/price.webp";
 import Probox from "./Probox";
 import "./Projects.scss";
 
@@ -29,14 +29,14 @@ function Projects() {
               />
 
               <Probox
-                title="Coindom"
+                title="PriceWise"
                 date="(February 2023)"
-                img={CoinDom}
-                description="Coindom is a crypto app that allows users to search for information about various cryptocurrencies in real-time."
-                techno1="React"
-                techno2="SCSS"
-                code="https://github.com/"
-                demo="https://coindom-crypto-search.vercel.app/"
+                img={price}
+                description="PriceWise is a Next.js + TypeScript project styled with Tailwind CSS, providing a reactive UI scaffold for price tracking and comparison."
+                techno1="Next.js"
+                techno2="TypeScript"
+                code="https://github.com/sdgsnehal/pricevise"
+                demo="https://pricevise.vercel.app/"
                 scrollY="-74%"
                 icon="🪙"
                 cName="reversed-proj"
