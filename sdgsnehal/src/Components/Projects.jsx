@@ -1,5 +1,5 @@
 import Gymate from "../assets/gym.webp";
-import Raouf from "../assets/ecom.webp";
+import Bank from "../assets/Bank.webp";
 
 import Task from "../assets/task.webp";
 import price from "../assets/price.webp";
@@ -21,7 +21,7 @@ function Projects() {
                 date="(February 2024)"
                 description="A task management app that helps users organize and prioritize their tasks efficiently."
                 techno1="Nextjs"
-                techno2="TAILWIND CSS"
+                techno2="Tailwind css"
                 code="https://github.com/sdgsnehal/taskfy"
                 demo="https://cbstask.vercel.app/"
                 scrollY="-83%"
@@ -43,14 +43,14 @@ function Projects() {
               />
 
               <Probox
-                title="Gymate"
+                title="HooBank"
                 date="(January 2023)"
-                img={Gymate}
-                description="A gym website is a comprehensive resource for fitness information, class schedules, membership options, and tools to help users achieve their fitness goals."
+                img={Bank}
+                description="HooBank is a modern and responsive banking landing page built with React and Tailwind CSS. It showcases a next-generation payment solution with sleek UI, animations in a clean, professional way"
                 techno1="React"
                 techno2="Tailwind CSS"
-                code="https://github.com/"
-                demo="https://gymate-iota.vercel.app/"
+                code="https://github.com/sdgsnehal/HooBank"
+                demo="https://hoo-bank-pi-two.vercel.app/"
                 scrollY="-89%"
                 icon="🏋️"
               />
@@ -58,7 +58,7 @@ function Projects() {
               <Probox
                 title="Ecommerce"
                 date="(December 2022)"
-                img={Raouf}
+                img={Gymate}
                 description="With a focus on simplicity and clean design, this store prioritize user experience, making it easy for customers to find and purchase the products they need."
                 techno1="React"
                 techno2="Vanila CSS"
