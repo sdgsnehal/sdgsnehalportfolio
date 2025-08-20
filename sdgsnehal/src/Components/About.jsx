@@ -19,16 +19,16 @@ function AboutMe() {
             <div className="text-side">
               <h3>About me</h3>
               <h4>
-                A dedicated Front-end Developer <br /> based in Nagpur, Maharashtra
-                📍
+                A dedicated Front-end Developer <br /> based in Pune,
+                Maharashtra 📍
               </h4>
               <p>
-                As a Front-End Developer, I possess an impressive arsenal
-                of skills in HTML, CSS, JavaScript, React, Tailwind, and SCSS. I
-                excel in designing and maintaining responsive websites that
-                offer a smooth user experience. My expertise lies in crafting
-                dynamic, engaging interfaces through writing clean and optimized
-                code and utilizing cutting-edge development tools and
+                As a Front-End Developer, I possess an impressive arsenal of
+                skills in HTML, CSS, JavaScript, React, Next.js, Tailwind, and
+                SCSS. I excel in designing and maintaining responsive websites
+                that offer a smooth user experience. My expertise lies in
+                crafting dynamic, engaging interfaces through writing clean and
+                optimized code and utilizing cutting-edge development tools and
                 techniques. I am also a team player who thrives in collaborating
                 with cross-functional teams to produce outstanding web
                 applications.
