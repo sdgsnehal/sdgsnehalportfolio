@@ -1,4 +1,4 @@
-import Gymate from "../assets/gym.webp";
+import Sass from "../assets/saas.webp";
 import Bank from "../assets/Bank.webp";
 
 import Task from "../assets/task.webp";
@@ -56,14 +56,14 @@ function Projects() {
               />
 
               <Probox
-                title="Ecommerce"
+                title="SaaS"
                 date="(December 2022)"
-                img={Gymate}
-                description="With a focus on simplicity and clean design, this store prioritize user experience, making it easy for customers to find and purchase the products they need."
-                techno1="React"
-                techno2="Vanila CSS"
-                code="https://github.com/"
-                demo="https://minimalist-e-commerce.vercel.app/"
+                img={Sass}
+                description="A clean, modern, and responsive SaaS website template built with React and Tailwind CSS. It features sections for product highlights, pricing plans, testimonials, and a call-to-action, making it perfect for showcasing SaaS products and boosting conversions"
+                techno1="Next js"
+                techno2="Framer Motion"
+                code="https://github.com/sdgsnehal/light-saas-landing-page"
+                demo="https://light-saas-landing-page-ten.vercel.app/"
                 scrollY="-71%"
                 icon="🛒"
                 cName="reversed-proj"
