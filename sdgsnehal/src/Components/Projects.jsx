@@ -1,5 +1,5 @@
 import Sass from "../assets/saas.webp";
-import Bank from "../assets/Bank.webp";
+import Bank from "../assets/bank.webp";
 
 import Task from "../assets/task.webp";
 import price from "../assets/price.webp";
